@@ -17,7 +17,7 @@ body {
     width: 1120px;
     border: solid;
     border-color: #F5F4F0;
-    margin: 88px auto 137px;
+    margin: 88px auto auto;
 }
 
 img {
@@ -137,5 +137,17 @@ ul {
     line-height: auto;
     text-align: center;
     color: #333333;
-    margin-bottom: 65px;
+}
+
+footer {
+    color: #333333;
+    text-align: center;
+    margin-top: 65px;
+    margin-bottom: 48px;
+}
+
+footer img {
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
 }
